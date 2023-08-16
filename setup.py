@@ -4,7 +4,7 @@ setup(
     name='valicast',
     version='0.1',
     description='Validation methods for forecasts',
-    url='https://github.com/smazzanti/valicast',
+    url='https://github.com/iammelvink/valicast',
     author='Samuele Mazzanti',
     author_email='mazzanti.sam@gmail.com',
     license='MIT',
