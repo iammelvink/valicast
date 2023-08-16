@@ -71,6 +71,12 @@ Written in **Python** and **R**
    pip install git+https://github.com/iammelvink/valicast.git
    ```
 
+8. How to use
+
+   ```sh
+   from valicast.validation_methods import get_indices
+   ```
+
 ## More Stuff
 
 Check out some other stuff on
